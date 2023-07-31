@@ -23,7 +23,7 @@ public class Main {
             System.out.println("Majic number always");
         }
         else {
-            System.out.println("Not Majic hhhNumber at all");
+            System.out.println("Not   hvjMajic hhhNumber at all");
         }
 
     }
