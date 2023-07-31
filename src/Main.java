@@ -20,10 +20,10 @@ public class Main {
             sum=0;
         }
         if (num==1){
-            System.out.println("Majic number");
+            System.out.println("Majic number always");
         }
         else {
-            System.out.println("Not Majic Number");
+            System.out.println("Not Majic Number at all");
         }
 
     }
